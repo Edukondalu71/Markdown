@@ -1,4 +1,3 @@
-'use client';
 import React from 'react';
 import Loading from './Loading';
 import { MarkdownContext } from '../lib/context/MarkdownProvider';
